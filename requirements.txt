@@ -1,0 +1,3 @@
+git+https://github.com/dropout1337/Discord-iOS/
+typing
+git+https://github.com/xolox/python-humanfriendly
